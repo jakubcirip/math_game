@@ -1,2 +1,2 @@
 # math_game
-Simply math game 
+Simple math game 
